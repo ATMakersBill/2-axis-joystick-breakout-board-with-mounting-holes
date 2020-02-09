@@ -1,3 +1,11 @@
+# Version of the Joystick breakout board that maps well into the XBox Adaptive Controller
+
+Adafruit's board is great, but the XAC wants the switch to short to VCC, not GND,
+and it's easier for us to put 3.5mm PTH components on this board than to wire it up.
+
+Remaining Readme is from Adafruit.  Thank you, Adafruit for this great work.
+
+
 # PCB files for breakout board for Analog 2-axis Thumb Joystick with Select Button
 
 <a href="http://www.adafruit.com/products/512"><img src="assets/image.jpg?raw=true" width="500px"><br/>

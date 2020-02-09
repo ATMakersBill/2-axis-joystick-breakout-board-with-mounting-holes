@@ -3,6 +3,9 @@
 Adafruit's board is great, but the XAC wants the switch to short to VCC, not GND,
 and it's easier for us to put 3.5mm PTH components on this board than to wire it up.
 <p>
+<img src="assets/Render.png?raw=true" width="500px">
+</p>
+<p>
 <img src="assets/ATMTop.png?raw=true" width="500px">
 </p>
 <p>
